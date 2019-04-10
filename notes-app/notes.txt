@@ -1,2 +1,0 @@
-My name is Joshua
-I love Node.js!
