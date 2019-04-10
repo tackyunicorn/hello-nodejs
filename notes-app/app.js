@@ -1,6 +1,7 @@
-const fs = require('fs')
-
-fs.writeFileSync('notes.txt' , 'My name is Joshua')
-
 // Challenge Solved
-fs.appendFileSync('notes.txt' , '\nI love Node.js!')
+
+const getNotes = require('./notes.js')
+
+const msg = getNotes()
+
+console.log(msg)
