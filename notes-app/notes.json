@@ -1,13 +1,4 @@
 [{
-    "title": "t",
-    "body": "b"
-}, {
-    "title": "list",
-    "body": "sweater, pants"
-}, {
-    "title": "a",
-    "body": "c"
-}, {
-    "title": "h",
-    "body": "l"
+    "title": "title",
+    "body": "body"
 }]
